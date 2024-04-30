@@ -4,3 +4,5 @@ The concept behind the project was to cater to the newly growing Formula 1 fanba
 
 Regarding copyright:
 I've used official Formula 1 website links and some F1 pictures from various websites.
+
+![image](https://github.com/adhyxn/F1-Enthusiast/assets/143823737/0289cc15-e36f-4c56-89a8-00a01679f6c2)
