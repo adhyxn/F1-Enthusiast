@@ -89,15 +89,3 @@ function validateForm() {
 
   return true; 
 }
-
-// fetch('http://ergast.com/api/f1/{{year}}/{{round}}/results')
-//   .then(response => response.json())
-//   .then(data => {
-//     const moviesDiv = document.getElementById('Schedule')
-//     data.forEach(Schedule => {
-//       const ScheduleDiv = document.createElement('div')
-//       ScheduleDiv.textContent = Schedule.title
-//       ScheduleDiv.appendChild(ScheduleDiv)
-//     })
-//   })
-//   .catch(error => console.error(error))
