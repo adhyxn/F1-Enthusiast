@@ -3,7 +3,6 @@ I'm a Formula 1 fan since 2021, and I created this project for my Web Technologi
 The concept behind the project was to cater to the newly growing Formula 1 fanbase in India.
 
 
-
 ![image](https://github.com/adhyxn/F1-Enthusiast/assets/143823737/9556eb47-154d-4c10-8d1d-707b827332ee)
 
 
